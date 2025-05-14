@@ -1,6 +1,6 @@
 # Mission 3 - Wagen von Rimur nach Lacta
 
-- Benimaru (Tiefling) Auftraggeber
+- Bienimaru (Tiefling) Auftraggeber
 	- Modedesigner
 	- Haus nicht zu übersehen
 - Auftrag
@@ -15,6 +15,7 @@
 		- -2 Baidtenangrief
 - Zweiter Veruch der Mission. Erster Versuch von anderen Gruppe.
 - Gebiet von 2 Drachen
+
 ##  Rimur
 -  Darius vor Tarverne alter Mann mit Dracheninfos
 	- Troll im Wald
@@ -24,8 +25,10 @@
 	- Potion of Speed
 		- 400 G Deal -> 3 Fiolen Drachenblut zurückbringen
 	- "Potion of Luck"-Flasche (leer mit dem Schriftzug)
+
 ## Tag 1
 Shopping
+
 ## Tag 2
 Banidenüberfall
 2 Krieger verloren
