@@ -1,6 +1,6 @@
 # Mission 3 - Wagen von Rimur nach Lacta
 
-- Bienimaru (Tiefling) Auftraggeber
+- Benimaru (Tiefling) Auftraggeber
 	- Modedesigner
 	- Haus nicht zu übersehen
 - Auftrag
@@ -40,4 +40,14 @@ Gemeinsam Richtung Waldesrand
 Die zwei sagen, wir sollten uns gut vorbereiten. In Koriba vorbereiten
 
 ## Tag 4
+Bei Koriba angekommen. Von Wachen entfangen worden.
+Wir gehen mit den Wachen etwas trinken.
+Cedrick hat und eingeladen.
+Lederlappenmeister kann helfen und Räder optimieren
 
+## Tag 5
+Lederlappenmeister Horst Schlemmer (enthuatisch). 200 gp pro wagen -> 
+Kamelmeisterin (Tochter von Horst). 
+-> Cedrick Schlemmer
+Isolde überredet als Guide mitzugehen.
+Wasser über Bag of Holding geregelt.
