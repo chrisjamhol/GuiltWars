@@ -10,7 +10,7 @@
 		- Malrik
 		- Tarion
 		- Wagen
-			- -1 Troll und Feuer
+			- -1 Troll und Feuer, aber Waren wurden umgeladen
 	- 8 Kreiger (in Ausbildung)
 		- -2 Baidtenangrief
 - Zweiter Veruch der Mission. Erster Versuch von anderen Gruppe.
@@ -32,3 +32,12 @@ Shopping
 ## Tag 2
 Banidenüberfall
 2 Krieger verloren
+
+## Tag 3
+Troll erlegt, kein tpk...
+Blitz (Monk) und Night Hawk (Bär) kamen zu "Hilfe"
+Gemeinsam Richtung Waldesrand
+Die zwei sagen, wir sollten uns gut vorbereiten. In Koriba vorbereiten
+
+## Tag 4
+
