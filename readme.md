@@ -27,27 +27,27 @@
 	- "Potion of Luck"-Flasche (leer mit dem Schriftzug)
 
 ## Tag 1
-Shopping
+- Shopping
 
 ## Tag 2
-Banidenüberfall
-2 Krieger verloren
+- Banidenüberfall
+- 2 Krieger verloren
 
 ## Tag 3
-Troll erlegt, kein tpk...
-Blitz (Monk) und Night Hawk (Bär) kamen zu "Hilfe"
-Gemeinsam Richtung Waldesrand
-Die zwei sagen, wir sollten uns gut vorbereiten. In Koriba vorbereiten
+- Troll erlegt, kein tpk...
+- Blitz (Monk) und Night Hawk (Bär) kamen zu "Hilfe"
+- Gemeinsam Richtung Waldesrand
+- Die zwei sagen, wir sollten uns gut vorbereiten. In Koriba vorbereiten
 
 ## Tag 4
-Bei Koriba angekommen. Von Wachen entfangen worden.
-Wir gehen mit den Wachen etwas trinken.
-Cedrick hat und eingeladen.
-Lederlappenmeister kann helfen und Räder optimieren
+- Bei Koriba angekommen. Von Wachen entfangen worden.
+- Wir gehen mit den Wachen etwas trinken.
+- Cedrick hat und eingeladen.
+- Lederlappenmeister kann helfen und Räder optimieren
 
 ## Tag 5
-Lederlappenmeister Horst Schlemmer (enthuatisch). 200 gp pro wagen -> 
-Kamelmeisterin (Tochter von Horst). 
--> Cedrick Schlemmer
-Isolde überredet als Guide mitzugehen.
-Wasser über Bag of Holding geregelt.
+- Lederlappenmeister Horst Schlemmer (enthuatisch). 200 gp pro wagen -> 
+- Kamelmeisterin (Tochter von Horst). 
+- -> Cedrick Schlemmer
+- Isolde überredet als Guide mitzugehen.
+- Wasser über Bag of Holding geregelt.
