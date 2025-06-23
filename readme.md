@@ -60,5 +60,11 @@
 - Sandsturm mit Scorpion
 - 2 Krieger bei den Scorpione
 - +8 Giftdrüßen -> ca 200 bis 500 GP pro Giftdrüße
+- Laufen bis in die Nacht
 
-## Tag 7
+## Tag 7 (Nacht)
+- Ohne größere Vorkommnisse
+
+## Tag 8 (Nacht)
+- jung puprle worm
+- 
