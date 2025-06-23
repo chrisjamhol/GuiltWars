@@ -13,6 +13,7 @@
 			- -1 Troll und Feuer, aber Waren wurden umgeladen
 	- 8 Kreiger (in Ausbildung)
 		- -2 Baidtenangrief
+        - -2 Scorpione
 - Zweiter Veruch der Mission. Erster Versuch von anderen Gruppe.
 - Gebiet von 2 Drachen
 
@@ -35,7 +36,7 @@
 
 ## Tag 3
 - Troll erlegt, kein tpk...
-- Blitz (Monk) und Night Hawk (Bär) kamen zu "Hilfe"
+- Blitz (Monk) und Night Paw (Bär) kamen zu "Hilfe"
 - Gemeinsam Richtung Waldesrand
 - Die zwei sagen, wir sollten uns gut vorbereiten. In Koriba vorbereiten
 
@@ -51,3 +52,13 @@
 - -> Cedrick Schlemmer
 - Isolde überredet als Guide mitzugehen.
 - Wasser über Bag of Holding geregelt.
+
+## Tag 6
+- Aufbruch in die Wüste
+- Night Paw schließt sich uns an
+- Mittags gehts los
+- Sandsturm mit Scorpion
+- 2 Krieger bei den Scorpione
+- +8 Giftdrüßen -> ca 200 bis 500 GP pro Giftdrüße
+
+## Tag 7
