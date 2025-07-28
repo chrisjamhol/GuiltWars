@@ -1,4 +1,3 @@
-# Mission 3 - Wagen von Rimur nach Lacta
 
 - Benimaru (Tiefling) Auftraggeber
 	- Modedesigner
@@ -67,4 +66,10 @@
 
 ## Tag 8 (Nacht)
 - jung puprle worm
+
+## Tag 9 (Nacht)
+- Ankunft am Gebirge. Nur ein Pfad durch das Gebirge. Allerdings nur kurz
+- Kampf gegen fire giant und fire elementals -> fire
+
+## Tag 10
 - 
